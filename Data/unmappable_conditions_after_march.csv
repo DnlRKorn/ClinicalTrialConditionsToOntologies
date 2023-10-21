@@ -1,0 +1,490 @@
+,trials_appeared_in,condition_string,after_march
+653,197,malignant solid neoplasm,True
+758,463,hiv/aids,True
+834,4,arterial ischemic stroke,True
+1197,8,cytomegalovirus (cmv),True
+1574,36,adult solid neoplasm,True
+1794,21,bk virus infection,True
+1934,30,recruitment,True
+2046,4,stage iv oropharyngeal squamous cell carcinoma,True
+2077,46,bone diseases,True
+2440,106,endocrine system diseases,True
+2534,2,stage ii oral cavity squamous cell carcinoma ajcc v6 and v7,True
+2843,1,"patients being assessed with nuclear stress testing of the heart using the stress agent regadenoson, lexiscan",True
+2969,276,opioid-related disorders,True
+3016,2,osteoporosis localized to spine,True
+3065,3,contact tracing,True
+3241,1,bipolar 1 depression,True
+3314,52,breast cancer metastatic,True
+3847,296,liver transplantation,True
+4054,218,tobacco use,True
+4120,57,kidney injury,True
+4137,54,hypertension in pregnancy,True
+4291,1126,inflammation,True
+4302,3725,hiv infections,True
+4519,30,stage iiic cutaneous melanoma ajcc v7,True
+4660,1,deviated nasal septum - congenital,True
+4801,1,stage 0 oropharyngeal squamous cell carcinoma ajcc v6 and v7,True
+4921,26,relapsed multiple myeloma,True
+5039,10,ventilator-associated bacterial pneumonia,True
+5232,92,parents,True
+5888,15,cervical spondylotic myelopathy,True
+6006,251,head and neck neoplasms,True
+6148,42,clinical trial,True
+6363,70,recurrent ovarian epithelial cancer,True
+6682,20,covid-19 disease,True
+6824,2,postoperative gastrointestinal dysfunction,True
+6883,384,acute pain,True
+7074,3,"nutrition, enteral",True
+7154,544,chronic kidney diseases,True
+7232,156,glucose metabolism disorders,True
+7511,51,advanced renal cell carcinoma,True
+7553,1,stage 0 oral cavity squamous cell carcinoma american joint committee on cancer (ajcc) v6 and v7,True
+7651,3,early parkinson's disease,True
+7654,235,substance use,True
+8449,44,cellulite,True
+8516,5,hospital-acquired bacterial pneumonia,True
+8623,73,"smoking, cigarette",True
+8665,1,recurrent or progressive glioblastoma,True
+8962,49,cervical ripening,True
+9056,22,fathers,True
+9112,41,toxicity,True
+9210,78,trauma injury,True
+9336,4,pediatric pain,True
+9535,1240,anesthesia,True
+9537,1,"kras p, g12c mutated /advanced metastatic nsclc",True
+9771,59,biliary tract neoplasms,True
+9810,1,"sunburn, erythema",True
+10260,3,severe covid-19 pneumonia,True
+10474,24,heterozygous familial hypercholesterolemia,True
+10592,60,"stigma, social",True
+10637,34,idiopathic parkinson disease,True
+10803,7,cardiovascular disease other,True
+10855,47,molar incisor hypomineralization,True
+10975,110,stage iv prostate cancer,True
+11371,22,"liver cirrhosis, biliary",True
+11747,60,chronic rhinosinusitis (diagnosis),True
+11782,40,stage iv cutaneous melanoma ajcc v6 and v7,True
+11790,22,bone metastasis,True
+12092,41,advanced adult primary liver cancer,True
+12799,20,extensive stage lung small cell carcinoma,True
+13795,250,opioid-use disorder,True
+13889,21,cervical disc herniation,True
+13921,33,emergency department,True
+14149,1,leptin receptor deficiency obesity,True
+14323,31,coronavirus disease 2019 (covid-19),True
+14504,452,opioid use,True
+14527,271,plaque psoriasis,True
+14638,4,lumbar osteoarthritis,True
+14776,46,ketamine,True
+15020,8,healthy participant,True
+15144,46,alcohol use disorder (aud),True
+15417,4,velopharyngeal incompetence due to cleft palate,True
+16044,986,mild cognitive impairment,True
+16177,27,self-efficacy,True
+16282,173,inflammatory response,True
+16295,1,chronic hypertension with pre-eclampsia complicating childbirth,True
+16398,86,stage iva lung cancer ajcc v8,True
+16537,9,psychiatric illness,True
+16608,188,attention deficit disorder with hyperactivity,True
+16760,446,posttraumatic stress disorder,True
+16852,653,septic shock,True
+16990,1,hemopneumothorax; traumatic,True
+17124,2,exposure to herbicides,True
+17170,12,unemployment,True
+17185,48,benign prostatic hyperplasia (bph),True
+17199,222,sedentary lifestyle,True
+17264,37,perioperative care,True
+17577,270,"carcinoma, hepatocellular",True
+18446,18,colorectal tumors,True
+18756,123,pneumococcal infections,True
+18857,941,smoking cessation,True
+19011,8,"osteoporosis, age-related",True
+19029,3,"hocm, hypertrophic obstructive cardiomyopathy",True
+19525,1,father - child relations,True
+19969,4,stage ivb nasal cavity and paranasal sinus squamous cell carcinoma,True
+19988,238,dry eye syndromes,True
+20106,631,overweight and obesity,True
+20452,31,stage iv squamous cell carcinoma of the lip and oral cavity,True
+20541,22,de novo myelodysplastic syndrome,True
+20968,200,stage iv breast cancer,True
+21012,1,severe sudden sensorineural hearing loss,True
+21083,58,adult acute myelomonocytic leukemia (m4),True
+21091,102,adult acute myeloid leukemia with del(5q),True
+21297,1,transgender adolescents & young adults,True
+21360,2,physical activity and sedentary behavior,True
+21376,11,stage iii oropharyngeal squamous cell carcinoma ajcc v7,True
+21507,18,overactive bladder (oab),True
+21531,25,metastatic osteosarcoma,True
+21628,25,scalp psoriasis,True
+21630,2,granulation tissue,True
+21954,147,out-of-hospital cardiac arrest,True
+22117,103,diabetic peripheral neuropathy,True
+22800,1,memory and thinking problems,True
+22872,521,advanced cancer,True
+23139,8,chronic pruritus,True
+23278,15,hazardous drinking,True
+23425,114,"surgical procedure, unspecified",True
+23616,86,stage ivb lung cancer ajcc v8,True
+23629,3,osteoporosis senile,True
+23798,1,relapsed-refractory multiple myeloma,True
+23887,64,coronary artery disease (cad),True
+24545,39,"diabetic neuropathy, painful",True
+24704,27,stage iiib cutaneous melanoma ajcc v7,True
+24732,1,night waking,True
+24943,83,health care utilization,True
+24976,206,hiv-1 infection,True
+25470,153,parent-child relations,True
+25546,10,non-small-cell lung,True
+25816,104,colorectal surgery,True
+25892,1,wound healing and scar quality following mohs surgery and excisional dermatologic surgery,True
+26134,11,primary myelofibrosis (pmf),True
+26287,15,body dysmorphic disorders,True
+26380,5,cardiorespiratory failure,True
+26390,18,criminal behavior,True
+26412,2,acute non-cardioembolic ischemic stroke,True
+26505,191,safety issues,True
+26911,19,acute myeloid leukemia with multilineage dysplasia following myelodysplastic syndrome,True
+27021,1,apoe 4,True
+27024,16,heart failure with preserved ejection fraction (hfpef),True
+27039,1,inflammation and pain following ocular surgery,True
+27100,314,chronic low back pain,True
+27106,3,catheter site pain,True
+27535,10,father-child relations,True
+28044,90,violence,True
+28210,142,adult acute myeloid leukemia with t(8;21)(q22;q22),True
+28347,1315,pregnancy,True
+28556,8,unresectable cholangiocarcinoma,True
+28562,388,menopause,True
+28759,2,desmoplastic infantile astrocytoma and ganglioglioma,True
+28981,100,untreated adult acute myeloid leukemia,True
+29381,3,ann arbor stage iva hodgkin lymphoma,True
+29831,3,stage iv lip and oral cavity squamous cell carcinoma,True
+30085,59,adult erythroleukemia (m6a),True
+30173,329,post traumatic stress disorder,True
+30926,1,hearing aid fitting,True
+31018,1,monocular diplopia,True
+31165,387,depressive symptoms,True
+31180,47,cataract surgery,True
+31496,13,ect,True
+31762,26,cervical cancer screening,True
+31974,88,polypharmacy,True
+32041,67,cannabis use disorder,True
+32187,41,"weight change, body",True
+32610,32,"dementia, mild",True
+33420,4,nonproliferative diabetic retinopathy,True
+33737,17,persistent asthma,True
+34880,10,"pain, post-operative",True
+35199,99,sexual behavior,True
+35924,5,platysma prominence,True
+35939,2,myocardial infarction old,True
+35941,402,prostatic neoplasms,True
+35962,22,speech sound disorder,True
+36133,22,stage iiia cutaneous melanoma ajcc v7,True
+36252,104,"infant, premature",True
+36299,25,post-polycythemia vera myelofibrosis,True
+36544,327,substance use disorders,True
+36765,164,healthy aging,True
+36773,4,unresectable cutaneous melanoma,True
+36975,3,untreated aml,True
+37688,19,donor site complication,True
+37751,115,sars-cov2 infection,True
+38011,1,chemo-radiation induced nausea and vomiting,True
+38339,14,"substance abuse, intravenous",True
+38605,11,"chronic pain, widespread",True
+38674,6,stage ivb oral cavity squamous cell carcinoma ajcc v6 and v7,True
+38791,16,gastric neoplasms,True
+38819,68,relapsing multiple sclerosis,True
+39129,1,information labels,True
+39168,24,"cystitis, interstitial",True
+39244,12,diabetes mellitus in pregnancy,True
+39272,1,vitamin d and calcium homeostasis,True
+39855,4,stage iva nasal cavity and paranasal sinus squamous cell carcinoma,True
+40048,65,intimate partner violence,True
+40360,59,adult acute monocytic leukemia (m5b),True
+40563,125,dietary habits,True
+40652,5,ann arbor stage iib hodgkin lymphoma,True
+41522,4,prevention of thromboembolic events,True
+41776,60,peripheral t cell lymphoma,True
+42611,8,tree nut allergy,True
+42759,72,advanced melanoma,True
+42815,1,coronavirus disease 2019 covid-19,True
+43067,261,hiv-1-infection,True
+43072,192,mental health issue,True
+43242,5,stage iii oral cavity squamous cell carcinoma ajcc v6 and v7,True
+43254,433,pharmacokinetics,True
+43403,26,cystic fibrosis-related diabetes,True
+43749,175,surgery--complications,True
+43807,21,postdural puncture headache,True
+44044,5,cervical high grade squamous intraepithelial lesion,True
+44233,19,cervical degenerative disc disease,True
+44271,2,giant cell astrocytoma,True
+44413,1801,hiv,True
+44633,289,medication adherence,True
+44997,9,stage ivc oropharyngeal squamous cell carcinoma,True
+45101,2,age related osteoporosis,True
+45103,1,alcohol use disorders (aud),True
+45105,20,glucose metabolism disorders (including diabetes mellitus),True
+45449,17,intraoperative bleeding,True
+45488,16,visceral pain,True
+45563,9,hemodiafiltration,True
+45611,1,chest tube size,True
+46145,8,melanoma of unknown primary,True
+46356,1175,aging,True
+46556,22,immunoglobulin a nephropathy,True
+46597,8,metastatic cholangiocarcinoma,True
+47148,153,safety,True
+47532,25,alcohol; harmful use,True
+47687,6,surgical skin preparation,True
+47883,4,metastatic pancreas cancer,True
+48127,334,chronic disease,True
+48467,35,congenital heart disease in children,True
+48564,13,"transplant; failure, liver",True
+48613,19,dupuytren's disease,True
+48642,1,soft drink consumption,True
+48672,2,sugar-sweetened beverages,True
+48697,3,oral pain,True
+48967,120,stage iv lung cancer ajcc v8,True
+49329,60,adult acute myeloblastic leukemia without maturation (m1),True
+49403,3,stage ii oropharyngeal squamous cell carcinoma ajcc v6 and v7,True
+49492,1,pit-and-fissure sealants,True
+49976,7,stage iii rectal cancer ajcc v7,True
+50135,22,stage iii cutaneous melanoma ajcc v7,True
+50174,683,sleep,True
+50191,1,"hepatic sarcoidosis, elevated alkaline phosphatase",True
+50335,1,binocular vision suppression,True
+50389,1,independent child migration,True
+50542,34,neuromyelitis optica spectrum disorder,True
+50843,181,"leukemia, myeloid, acute",True
+50922,59,adult pure erythroid leukemia (m6b),True
+50953,15,health care seeking behavior,True
+51504,191,cigarette smoking,True
+51600,7,geriatric syndromes,True
+51804,2,hoffman's reflex,True
+51891,97,skin diseases,True
+52048,2,multicentric breast carcinoma,True
+52116,10,underage drinking,True
+52502,148,adult acute myeloid leukemia with 11q23 (mll) abnormalities,True
+52530,84,binge-eating disorder,True
+52759,1,turbinate; hypertrophy mucous membrane,True
+52821,265,alcohol drinking,True
+53072,39,"myocardial infarction, acute",True
+53075,305,substance-related disorders,True
+53103,1,menopausal hot flashes,True
+53214,127,visual acuity,True
+53322,111,temporomandibular joint disorders,True
+53327,92,myocardial injury,True
+53467,3,ann arbor stage iiib hodgkin lymphoma,True
+53731,2,infraorbital hollows,True
+53801,57,schizo affective disorder,True
+53844,19,platelet-rich plasma,True
+53998,1,cerebellar iponeurocytoma,True
+54325,21,autism spectrum disorder (asd),True
+54426,7,"liver diseases, alcoholic",True
+54803,2,stage i oropharyngeal squamous cell carcinoma ajcc v6 and v7,True
+54953,29,post-essential thrombocythemia myelofibrosis,True
+55113,164,stage iv non-small cell lung cancer,True
+55151,2,antidepressants causing adverse effects in therapeutic use,True
+55169,11,stage iii intrahepatic cholangiocarcinoma ajcc v8,True
+55904,50,hepatocellular carcinoma (hcc),True
+56376,474,health behavior,True
+56418,37,glabellar lines,True
+56620,3,prevention of sexually transmitted infections,True
+56717,27,"leukemia, myelomonocytic, chronic",True
+57163,2,chronic leg pain,True
+57186,1,"osteoarthritis, knee / osteoarthritis, hip",True
+57281,54,glabellar frown lines,True
+58025,289,colonoscopy,True
+58208,141,adult acute myeloid leukemia with inv(16)(p13;q22),True
+58330,4,stage ivc nasal cavity and paranasal sinus squamous cell carcinoma,True
+58331,26,geriatric,True
+58725,10,refractory melanoma,True
+58995,4,"dermatomyositis, adult type",True
+59383,13,venous thromboembolism (vte),True
+59920,1,dental caries class i,True
+59928,36,acute respiratory distress syndrome (ards),True
+59966,3,ann arbor stage ivb hodgkin lymphoma,True
+59994,207,"depression, anxiety",True
+60299,1,deviated nasal septum acquired,True
+60636,205,respiratory tract infections,True
+60925,313,"depressive disorder, major",True
+61136,18,psychiatric hospitalization,True
+61204,6,sun protection,True
+61426,9,catheter site discomfort,True
+61694,2,stage ivc nasopharyngeal keratinizing squamous cell carcinoma,True
+62343,21,control,True
+62428,1,squamous cell carcinoma of unknown primary origin,True
+62614,184,"obesity, childhood",True
+62717,2,stage iva nasopharyngeal keratinizing squamous cell carcinoma,True
+62800,3,cognitive impairment associated with schizophrenia,True
+63121,31,diabetic peripheral neuropathic pain,True
+63245,285,liver diseases,True
+63310,78,phantom limb pain,True
+63614,68,transcranial direct current stimulation,True
+63799,27,end of life,True
+64111,988,physical activity,True
+64128,11,stage iv intrahepatic cholangiocarcinoma ajcc v8,True
+64597,20,electroconvulsive therapy,True
+64712,166,infections,True
+64756,101,wound healing,True
+64760,4,thermal burns,True
+64973,18,stage iv squamous cell carcinoma of the paranasal sinus and nasal cavity,True
+65202,3,post-essential thrombocythemia myelofibrosis (post-et mf),True
+65243,196,obese,True
+65253,3,post traumatic stress syndrome,True
+65592,12,stage iva oropharyngeal squamous cell carcinoma,True
+65652,373,idiopathic pulmonary fibrosis,True
+65678,1,spasticity in participants with multiple sclerosis,True
+65735,3,childhood hodgkin lymphoma,True
+66074,3,stage iv nasopharyngeal keratinizing squamous cell carcinoma,True
+66082,1,b precursor type acute leukemia,True
+66252,30,locally advanced cervical cancer,True
+66454,14,postpartum weight retention,True
+66480,146,adult acute myeloid leukemia with t(16;16)(p13;q22),True
+66584,2,aml arising from myelodysplastic syndrome (mds),True
+66658,2,tube disorders eustachian,True
+66688,2115,covid19,True
+67325,53,painful diabetic neuropathy,True
+67356,165,wounds and injuries,True
+67480,1,liver preservation for transplant,True
+67531,263,psychotic disorders,True
+67944,5,stage iva lip and oral cavity squamous cell carcinoma,True
+68002,244,kidney diseases,True
+68108,1,microfragmented adipose tissue,True
+68162,4,stage ivc lip and oral cavity squamous cell carcinoma,True
+68305,53,adult acute minimally differentiated myeloid leukemia (m0),True
+68809,9,"retention, urinary",True
+68976,15,respiratory syncytial viruses,True
+69400,3,"drinking, teen",True
+69437,15,driving under the influence,True
+69492,79,stage iv renal cell cancer,True
+69661,37,schizophreniform disorders,True
+69898,4,stage ivb lip and oral cavity squamous cell carcinoma,True
+69944,178,heart failure with preserved ejection fraction,True
+70448,48,recurrent lung non-small cell carcinoma,True
+70503,238,amputation,True
+70715,10,dental caries class ii,True
+70728,139,hematopoietic stem cell transplantation,True
+70772,16,intravenous drug usage,True
+70999,1,osteoarthritis of cervical spine,True
+71191,36,recurrent head and neck squamous cell carcinoma,True
+71285,58,adult acute monoblastic leukemia (m5a),True
+71370,2,stage ivb nasopharyngeal keratinizing squamous cell carcinoma,True
+71401,4,negative symptoms of schizophrenia,True
+72025,29,extreme prematurity,True
+72261,6,dry macular degeneration,True
+72444,27,hypercholesterolaemia,True
+72606,168,treatment resistant depression,True
+73028,7,stage iva oral cavity squamous cell carcinoma ajcc v6 and v7,True
+73339,219,coronavirus,True
+73382,22,disruptive behavior,True
+73589,143,mood,True
+73811,63,social anxiety,True
+74166,11,deep vein thrombosis (dvt),True
+74206,584,contraception,True
+74566,135,uterine fibroids,True
+74578,2,alcohol problem drinking,True
+74607,11,transtibial amputation,True
+74741,2,rosette-forming glioneurona tumor,True
+74784,2,consciousness,True
+74803,1,post-polycythemia vera (post-pv),True
+74847,58,adult acute myeloblastic leukemia with maturation (m2),True
+75038,54,stage iii prostate cancer,True
+75071,6,leber's hereditary optic neuropathy (lhon),True
+75455,119,"tuberculosis, pulmonary",True
+75552,2,stage ii rectal cancer ajcc v7,True
+75721,202,postpartum hemorrhage,True
+75734,26,lateral canthal lines,True
+75814,18,moderate-to-severe atopic dermatitis,True
+75872,279,post operative pain,True
+75906,527,metastatic colorectal cancer,True
+75954,247,musculoskeletal pain,True
+76262,32,stoma ileostomy,True
+76460,30,hypothermia; anesthesia,True
+76557,2,chronic prurigo,True
+76998,206,pediatric obesity,True
+77017,49,renal colic,True
+77077,142,diet modification,True
+77257,7,care transitions,True
+77559,27,motivational interviewing,True
+77641,30,social determinants of health,True
+77831,19,lumbosacral radiculopathy,True
+78084,1,active cutaneous lupus erythematosus,True
+78264,4,arthritis rheumatoid,True
+78300,2,"cannabis dependence, continuous",True
+78466,4,transformed mycosis fungoides,True
+78837,2,ocular inflammation and pain,True
+78935,2,anxiety disorders generalized,True
+79031,760,spinal cord injuries,True
+79149,184,migraine disorders,True
+79230,10,bile acid malabsorption,True
+79243,56,ventricular arrythmia,True
+79447,86,"depression, postpartum",True
+79972,602,pregnancy related,True
+80180,15,corneal endothelial cell loss,True
+80243,3,hsil,True
+80299,55,major depressive episode,True
+80616,15,"feedback, psychological",True
+80773,35,symptomatic irreversible pulpitis,True
+80844,31,locally advanced pancreatic cancer,True
+81195,1,"estrogen receptor-positive, her2-negative, locally advanced or metastatic breast cancer",True
+81483,96,pediatrics,True
+82003,35,recurrent adult primary liver cancer,True
+82057,2,chronic hepatitis c virus (hcv) infection genotype 1,True
+82221,2,drug action increased,True
+82392,77,acute decompensated heart failure,True
+82451,58,unresectable melanoma,True
+82549,154,dry eye disease,True
+82653,24,coronavirus disease (covid-19),True
+83265,1,overactive bladder with urge urinary incontinence,True
+83518,6,hematopoietic stem cells,True
+83836,1,peripheral nerve discontinuities,True
+84165,13,severe acute respiratory syndrome coronavirus 2 (sars-cov-2),True
+84876,7,bunionectomy,True
+85539,301,human immunodeficiency virus,True
+85704,347,healthy participants,True
+85707,144,mild traumatic brain injury,True
+85791,238,parenting,True
+85797,1,head and neck basaloid carcinoma,True
+85971,255,hemodialysis,True
+86113,1213,"pain, postoperative",True
+86491,3,colorectal cancer with hepatic metastases,True
+86876,3,newly diagnosed acute myeloid leukemia (aml),True
+87435,5,superficial vein thrombosis,True
+87762,1,nonsegmental vitiligo,True
+87770,1,stage i oral cavity squamous cell carcinoma ajcc v6 and v7,True
+87810,140,heart failure with reduced ejection fraction,True
+88139,211,opioid use disorder,True
+88816,10,stage ivb oropharyngeal squamous cell carcinoma ajcc v7,True
+89060,1,hiv-1/hbv co-infection,True
+89287,128,metastatic castration-resistant prostate cancer,True
+89543,1,"binocular; fusion, with defective stereopsis",True
+89638,86,respiratory tract diseases,True
+89728,41,systemic lupus erythematosus (sle),True
+90143,58,adult acute megakaryoblastic leukemia (m7),True
+90704,23,cigarette smoking-related carcinoma,True
+90735,1,mast cell disorder,True
+90737,1,locally advanced or metastatic urothelial bladder cancer,True
+91070,110,survivorship,True
+91233,3,cognitive functioning of healthy individuals,True
+91362,8,recurrent lung small cell carcinoma,True
+91378,39,uncontrolled hypertension,True
+91439,2,"oligodendroglioma, childhood",True
+91449,19,recurrent oropharyngeal squamous cell carcinoma,True
+91555,3,carpal tunnel syndrome (cts),True
+91774,3,visual perception,True
+91895,554,colorectal neoplasms,True
+92025,13,stage iva oropharyngeal squamous cell carcinoma ajcc v7,True
+92189,7,sexually transmitted infections (not hiv or hepatitis),True
+92438,275,suicide,True
+92677,10,stage ivb oropharyngeal squamous cell carcinoma,True
+92678,181,postoperative delirium,True
+92778,2,ocular inflammation and pain after cataract surgery,True
+93166,1,connective tissue disease-associated pulmonary arterial hypertension,True
+93206,1,acquired hyperinsulinemic hypoglycemia,True
+93257,165,metastatic renal cell carcinoma,True
+93302,21,acute postoperative pain,True
+93549,2,dysplastic gangliocytoma of cerebrellum,True
+93681,2,end stage renal disease requiring hemodialysis,True
+94507,55,urge incontinence,True
+94521,110,psychological stress,True

@@ -1,0 +1,538 @@
+granulation tissue
+chronic prurigo
+stage iva nasopharyngeal keratinizing squamous cell carcinoma
+hiv-1 infection
+multicentric breast carcinoma
+stage ii rectal cancer ajcc v7
+polypharmacy
+cervical high grade squamous intraepithelial lesion
+cigarette smoking
+raynaud phenomenon
+cognitive impairment
+myelokathexis
+alcohol drinking
+prevention of sexually transmitted infections
+head and neck basaloid carcinoma
+locally advanced pancreatic cancer
+opioid use
+adult acute myeloid leukemia with 11q23 (mll) abnormalities
+arterial ischemic stroke
+biliary tract neoplasms
+unemployment
+sugar-sweetened beverages
+hypomineralization of enamel
+exposure to herbicides
+prevention of thromboembolic events
+covid19
+health behavior
+stage iii oropharyngeal squamous cell carcinoma ajcc v7
+tree nut allergy
+hypercholesterolaemia
+trauma injury
+transgender adolescents & young adults
+spasticity in participants with multiple sclerosis
+plaque psoriasis
+hepatocellular carcinoma (hcc)
+cytomegalovirus (cmv)
+kras p, g12c mutated /advanced metastatic nsclc
+cervical cancer screening
+stage iva lung cancer ajcc v8
+recurrent or progressive glioblastoma
+sexually transmitted infections (not hiv or hepatitis)
+eoe
+patients being assessed with nuclear stress testing of the heart using the stress agent regadenoson, lexiscan
+persistent asthma
+pruritus
+self-efficacy
+hospital-acquired bacterial pneumonia
+uterine fibroids
+stage ivb oral cavity squamous cell carcinoma ajcc v6 and v7
+wounds and injuries
+acute decompensated heart failure
+hiv/aids
+stigma, social
+connective tissue disease-associated pulmonary arterial hypertension
+vitamin d and calcium homeostasis
+colorectal neoplasms
+chest tube size
+refractory melanoma
+father-child relations
+lumbosacral radiculopathy
+stage iv intrahepatic cholangiocarcinoma ajcc v8
+stoma ileostomy
+cataract surgery
+menopausal hot flashes
+major depressive episode
+glucose metabolism disorders
+age related osteoporosis
+survivorship
+information labels
+multifocal breast carcinoma
+recruitment
+colorectal tumors
+violence
+hematopoietic stem cells
+hypothermia; anesthesia
+binocular; fusion, with defective stereopsis
+dry macular degeneration
+pregnancy
+intimate partner violence
+excessive bleeding during surgery
+geographic atrophy
+pneumococcal infections
+cerebellar iponeurocytoma
+depression, anxiety
+transplant; failure, liver
+stage ivc lip and oral cavity squamous cell carcinoma
+nonproliferative diabetic retinopathy
+perioperative care
+weight loss
+ocular inflammation and pain
+recurrent lung small cell carcinoma
+bile acid malabsorption
+surgical skin preparation
+bone diseases
+leukemia, myeloid, acute
+diplopia
+primary myelofibrosis (pmf)
+stage iva lip and oral cavity squamous cell carcinoma
+neuromyelitis optica spectrum disorder
+painful diabetic neuropathy
+respiratory tract diseases
+colorectal surgery
+deep vein thrombosis (dvt)
+arthritis rheumatoid
+stage iva nasal cavity and paranasal sinus squamous cell carcinoma
+safety issues
+untreated aml
+uncontrolled hypertension
+tachycardia
+stage iii oral cavity squamous cell carcinoma ajcc v6 and v7
+nausea
+stage iv cutaneous melanoma ajcc v6 and v7
+lateral canthal lines
+negative symptoms of schizophrenia
+vomiting
+postoperative delirium
+treatment resistant depression
+corneal endothelial cell loss
+benign prostatic hyperplasia (bph)
+stage ivc nasal cavity and paranasal sinus squamous cell carcinoma
+fathers
+covid-19 disease
+consciousness
+advanced adult primary liver cancer
+liver cirrhosis, biliary
+untreated adult acute myeloid leukemia
+pain
+drinking, teen
+binge-eating disorder
+physical activity and sedentary behavior
+renal colic
+weight gain
+bunionectomy
+coronavirus disease (covid-19)
+underage drinking
+stage ivb nasal cavity and paranasal sinus squamous cell carcinoma
+osteoporosis localized to spine
+chronic leg pain
+cervical spondylotic myelopathy
+psychotic disorders
+prostatic neoplasms
+breast cancer metastatic
+amputation
+infant, premature
+stage iiic cutaneous melanoma ajcc v7
+surgery--complications
+stage ii oropharyngeal squamous cell carcinoma ajcc v6 and v7
+immunoglobulin a nephropathy
+deviated nasal septum acquired
+skin diseases
+anhedonia
+dry eye syndromes
+alcohol use disorder (aud)
+monocular diplopia
+posttraumatic stress disorder
+healthy participants
+metastatic cholangiocarcinoma
+post-polycythemia vera (post-pv)
+hiv-1/hbv co-infection
+ann arbor stage iib hodgkin lymphoma
+healthy
+depressive episode
+sedentary lifestyle
+health care utilization
+postpartum weight retention
+adult acute myeloid leukemia with del(5q)
+stage ivc oropharyngeal squamous cell carcinoma
+pregnancy related
+idiopathic pulmonary fibrosis
+osteopenia
+binocular vision suppression
+scalp psoriasis
+catheter site pain
+leukemia, myelomonocytic, chronic
+metastatic osteosarcoma
+relapsing multiple sclerosis
+substance use
+depression, postpartum
+transtibial amputation
+dysmenorrhea
+overactive bladder (oab)
+hsil
+stage iv nasopharyngeal keratinizing squamous cell carcinoma
+retention, urinary
+lumbar osteoarthritis
+venous thromboembolism (vte)
+peripheral nerve discontinuities
+sexual behavior
+dementia, mild
+cystitis, interstitial
+malignant solid neoplasm
+surgical procedure, unspecified
+colonoscopy
+hemodiafiltration
+health care seeking behavior
+aml arising from myelodysplastic syndrome (mds)
+memory and thinking problems
+hepatic sarcoidosis, elevated alkaline phosphatase
+myocardial injury
+hot flashes
+father - child relations
+bipolar 1 depression
+visual perception
+anesthesia
+cognitive functioning of healthy individuals
+unresectable cholangiocarcinoma
+drug action increased
+tube disorders eustachian
+temporomandibular joint disorders
+depressive symptoms
+mental health issue
+hypertension in pregnancy
+wound healing and scar quality following mohs surgery and excisional dermatologic surgery
+adult acute myeloblastic leukemia with maturation (m2)
+parenting
+acute myeloid leukemia with multilineage dysplasia following myelodysplastic syndrome
+dental caries class i
+cigarette smoking-related carcinoma
+severe acute respiratory syndrome coronavirus 2 (sars-cov-2)
+adult acute myeloid leukemia with t(8;21)(q22;q22)
+heart failure with preserved ejection fraction (hfpef)
+independent child migration
+wound healing
+cannabis use disorder
+adult erythroleukemia (m6a)
+hearing loss, sensorineural
+symptomatic irreversible pulpitis
+advanced renal cell carcinoma
+cognitive decline
+tuberculosis, pulmonary
+intravenous drug usage
+nasal obstruction
+colorectal cancer with hepatic metastases
+recurrent head and neck squamous cell carcinoma
+liver preservation for transplant
+stage iv non-small cell lung cancer
+chronic low back pain
+soft drink consumption
+stage iv breast cancer
+body dysmorphic disorders
+stage iv lip and oral cavity squamous cell carcinoma
+systemic lupus erythematosus (sle)
+molar incisor hypomineralization
+attention deficit disorder with hyperactivity
+transcranial direct current stimulation
+congenital heart disease in children
+social determinants of health
+chronic pain
+psychiatric hospitalization
+stage ivb lung cancer ajcc v8
+inflammatory response
+osteoporosis of vertebrae
+disruptive behavior
+pediatrics
+stage iv lung cancer ajcc v8
+newly diagnosed acute myeloid leukemia (aml)
+out-of-hospital cardiac arrest
+social anxiety
+feedback, psychological
+pediatric obesity
+extreme prematurity
+sunburn, erythema
+control
+diet modification
+hiv-1-infection
+gastric neoplasms
+dental caries class ii
+oral pain
+idiopathic parkinson disease
+medication adherence
+adult acute monocytic leukemia (m5b)
+relapsed-refractory multiple myeloma
+recurrent ovarian epithelial cancer
+inflammation and pain following ocular surgery
+glabellar frown lines
+liver diseases, alcoholic
+hypercholesterolemia
+emergency department
+coronavirus
+ketamine
+adult acute myeloblastic leukemia without maturation (m1)
+irritable mood
+kidney injury
+early parkinson's disease
+opioid-related disorders
+phantom limb pain
+schizo affective disorder
+musculoskeletal pain
+severe covid-19 pneumonia
+deviated nasal septum - congenital
+adult acute monoblastic leukemia (m5a)
+transformed mycosis fungoides
+weight change, body
+recurrent adult primary liver cancer
+stage iii cutaneous melanoma ajcc v7
+chronic hypertension with pre-eclampsia complicating childbirth
+myocardial infarction old
+urge incontinence
+stage 0 oral cavity squamous cell carcinoma american joint committee on cancer (ajcc) v6 and v7
+metastatic castration-resistant prostate cancer
+pain, post-operative
+glabellar lines
+stage ivb oropharyngeal squamous cell carcinoma ajcc v7
+giant cell astrocytoma
+stage iv renal cell cancer
+stage iva oropharyngeal squamous cell carcinoma ajcc v7
+psychiatric illness
+sars-cov2 infection
+cervical disc herniation
+relapsed multiple myeloma
+stage iii rectal cancer ajcc v7
+head and neck neoplasms
+sepsis
+b precursor type acute leukemia
+metastatic colorectal cancer
+chronic rhinosinusitis (diagnosis)
+post-essential thrombocythemia myelofibrosis (post-et mf)
+infections
+speech sound disorder
+liver diseases
+stage iva oropharyngeal squamous cell carcinoma
+pelvic pain
+adult solid neoplasm
+cellulite
+overactive bladder with urge urinary incontinence
+overweight
+osteoarthritis of cervical spine
+moderate-to-severe atopic dermatitis
+unconsciousness
+intraoperative bleeding
+stage ivc nasopharyngeal keratinizing squamous cell carcinoma
+respiratory tract infections
+autism spectrum disorder (asd)
+cervical degenerative disc disease
+night waking
+hazardous drinking
+unresectable melanoma
+respiratory syncytial viruses
+velopharyngeal incompetence due to cleft palate
+visual acuity
+superficial vein thrombosis
+mast cell disorder
+chronic pruritus
+end of life
+cardiorespiratory failure
+diabetes mellitus in pregnancy
+heart failure with reduced ejection fraction
+smoking, cigarette
+ann arbor stage iiib hodgkin lymphoma
+postdural puncture headache
+stage iv squamous cell carcinoma of the lip and oral cavity
+stage iiia cutaneous melanoma ajcc v7
+sun protection
+chronic hepatitis c virus (hcv) infection genotype 1
+schizophreniform disorders
+urinary tract infections
+post traumatic stress syndrome
+adult acute myelomonocytic leukemia (m4)
+criminal behavior
+toxicity
+desmoplastic infantile astrocytoma and ganglioglioma
+acquired hyperinsulinemic hypoglycemia
+chronic pain, widespread
+hemothorax
+pit-and-fissure sealants
+adult acute minimally differentiated myeloid leukemia (m0)
+septic shock
+alcohol; harmful use
+healthy aging
+heart failure with preserved ejection fraction
+stage i oropharyngeal squamous cell carcinoma ajcc v6 and v7
+de novo myelodysplastic syndrome
+healthy participant
+turbinate; hypertrophy mucous membrane
+parents
+platelet-rich plasma
+amphetamine dependence
+contraception
+end stage renal disease requiring hemodialysis
+migraine disorders
+hiv infections
+depressive disorder, major
+hyperkalemia
+pharmacokinetics
+chronic kidney diseases
+fecal incontinence
+carcinoma, hepatocellular
+stage iv oropharyngeal squamous cell carcinoma
+diabetic peripheral neuropathy
+unresectable cutaneous melanoma
+melanoma of unknown primary
+severe sudden sensorineural hearing loss
+stage iiib cutaneous melanoma ajcc v7
+ann arbor stage iva hodgkin lymphoma
+stage ii oral cavity squamous cell carcinoma ajcc v6 and v7
+leber's hereditary optic neuropathy (lhon)
+contact tracing
+rosette-forming glioneurona tumor
+thermal burns
+apraxia of speech
+childhood hodgkin lymphoma
+ann arbor stage ivb hodgkin lymphoma
+post-essential thrombocythemia myelofibrosis
+leptin receptor deficiency obesity
+geriatric syndromes
+estrogen receptor-positive, her2-negative, locally advanced or metastatic breast cancer
+menopause
+sleep
+cognitive impairment associated with schizophrenia
+liver transplantation
+substance abuse, intravenous
+coronary artery disease (cad)
+stage iii intrahepatic cholangiocarcinoma ajcc v8
+obese
+heterozygous familial hypercholesterolemia
+physical activity
+ocular inflammation
+recurrent lung non-small cell carcinoma
+substance-related disorders
+myocardial infarction, acute
+adult acute myeloid leukemia with inv(16)(p13;q22)
+adult acute megakaryoblastic leukemia (m7)
+acute respiratory distress syndrome (ards)
+active cutaneous lupus erythematosus
+diabetic peripheral neuropathic pain
+squamous cell carcinoma of unknown primary origin
+stage ivb oropharyngeal squamous cell carcinoma
+mood
+osteoarthritis, knee / osteoarthritis, hip
+kidney diseases
+apoe 4
+coronavirus disease 2019 (covid-19)
+stage iva oral cavity squamous cell carcinoma ajcc v6 and v7
+waldenström's macroglobulinemia
+care transitions
+cervical ripening
+alcohol problem drinking
+extensive stage lung small cell carcinoma
+obesity, childhood
+chemo-radiation induced nausea and vomiting
+warts
+opioid use disorder
+chronic disease
+diabetic neuropathy, painful
+cystic fibrosis-related diabetes
+stage 0 oropharyngeal squamous cell carcinoma ajcc v6 and v7
+electroconvulsive therapy
+dermatomyositis, adult type
+safety
+inflammation
+ocular inflammation and pain after cataract surgery
+catheter site discomfort
+human immunodeficiency virus
+ventricular arrythmia
+aging
+endocrine system diseases
+dietary habits
+stage ivb nasopharyngeal keratinizing squamous cell carcinoma
+carpal tunnel syndrome (cts)
+motivational interviewing
+anxiety disorders generalized
+dysphagia
+hemopneumothorax; traumatic
+stage i oral cavity squamous cell carcinoma ajcc v6 and v7
+acute pain
+acute postoperative pain
+hearing aid fitting
+agitation
+suicide
+advanced cancer
+antidepressants causing adverse effects in therapeutic use
+metastatic renal cell carcinoma
+non-small-cell lung
+geriatric
+stage iv prostate cancer
+hemodialysis
+stage ivb lip and oral cavity squamous cell carcinoma
+infraorbital hollows
+smoking cessation
+dysplastic gangliocytoma of cerebrellum
+end-stage renal disease
+locally advanced cervical cancer
+microfragmented adipose tissue
+mild cognitive impairment
+post-polycythemia vera myelofibrosis
+locally advanced or metastatic urothelial bladder cancer
+tobacco use
+postoperative gastrointestinal dysfunction
+spinal cord injuries
+mild traumatic brain injury
+postpartum hemorrhage
+adult pure erythroid leukemia (m6b)
+stage iii prostate cancer
+dupuytren's disease
+ocular pain
+adult acute myeloid leukemia with t(16;16)(p13;q22)
+osteoporosis, age-related
+post operative pain
+osteoporosis senile
+substance use disorders
+overweight and obesity
+opioid-use disorder
+hematopoietic stem cell transplantation
+ventilator-associated bacterial pneumonia
+metastatic pancreas cancer
+oligodendroglioma, childhood
+clinical trial
+pain, postoperative
+fatigue
+parent-child relations
+glucose metabolism disorders (including diabetes mellitus)
+alcohol use disorders (aud)
+bk virus infection
+platysma prominence
+hocm, hypertrophic obstructive cardiomyopathy
+hoffman's reflex
+peripheral t cell lymphoma
+bone metastasis
+donor site complication
+nonsegmental vitiligo
+knee osteoarthritis
+cardiovascular disease other
+nutrition, enteral
+acute non-cardioembolic ischemic stroke
+coronavirus disease 2019 covid-19
+dry eye disease
+advanced melanoma
+ect
+pediatric pain
+psychological stress
+visceral pain
+recurrent oropharyngeal squamous cell carcinoma
+stage iv squamous cell carcinoma of the paranasal sinus and nasal cavity
+driving under the influence
+low back pain
+cannabis dependence, continuous
+hiv
+post traumatic stress disorder
