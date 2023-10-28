@@ -1,0 +1,901 @@
+"downcase_name","count"
+healthy,9577
+breast cancer,7324
+obesity,6425
+hypertension,3953
+stroke,3944
+depression,3811
+prostate cancer,3761
+hiv infections,3725
+pain,3690
+asthma,3342
+cancer,3214
+"diabetes mellitus, type 2",3024
+heart failure,3002
+covid-19,2937
+colorectal cancer,2862
+schizophrenia,2703
+diabetes,2689
+lung cancer,2654
+atrial fibrillation,2388
+rheumatoid arthritis,2299
+healthy volunteers,2261
+covid19,2115
+diabetes mellitus,2064
+multiple myeloma,2035
+type 2 diabetes,2011
+parkinson disease,1950
+lymphoma,1905
+hiv,1802
+quality of life,1751
+type 2 diabetes mellitus,1717
+ovarian cancer,1700
+non-small cell lung cancer,1626
+leukemia,1572
+chronic obstructive pulmonary disease,1566
+hepatocellular carcinoma,1553
+major depressive disorder,1527
+chronic pain,1503
+head and neck cancer,1377
+alzheimer disease,1363
+pregnancy,1315
+melanoma,1309
+influenza,1260
+anesthesia,1243
+low back pain,1230
+sepsis,1222
+acute myeloid leukemia,1218
+"pain, postoperative",1216
+copd,1206
+knee osteoarthritis,1190
+myocardial infarction,1183
+aging,1179
+dementia,1154
+parkinson's disease,1139
+inflammation,1128
+overweight,1092
+bipolar disorder,1049
+osteoporosis,1022
+alzheimer's disease,1003
+type 1 diabetes,1002
+psoriasis,997
+ulcerative colitis,996
+physical activity,989
+mild cognitive impairment,988
+"diabetes mellitus, type 1",978
+cardiovascular disease,975
+anemia,964
+smoking cessation,943
+autism spectrum disorder,907
+myelodysplastic syndromes,906
+"pulmonary disease, chronic obstructive",901
+chronic kidney disease,892
+traumatic brain injury,882
+"osteoarthritis, knee",865
+atopic dermatitis,859
+atherosclerosis,846
+solid tumor,837
+fibromyalgia,775
+rectal cancer,774
+hypercholesterolemia,770
+spinal cord injuries,762
+fatigue,759
+insomnia,753
+glioblastoma,741
+crohn's disease,702
+myopia,699
+sleep,685
+cognitive impairment,680
+colon cancer,678
+pneumonia,677
+chronic lymphocytic leukemia,666
+sickle cell disease,666
+migraine,662
+sarcoma,662
+septic shock,653
+overweight and obesity,632
+hiv infection,607
+pregnancy related,603
+vitamin d deficiency,599
+weight loss,597
+type 1 diabetes mellitus,596
+amyotrophic lateral sclerosis,587
+contraception,584
+end stage renal disease,572
+renal cell carcinoma,565
+acute lymphoblastic leukemia,560
+colorectal neoplasms,554
+periodontitis,551
+chronic kidney diseases,546
+myelodysplastic syndrome,542
+metastatic colorectal cancer,527
+advanced cancer,524
+systemic lupus erythematosus,521
+schizoaffective disorder,504
+endometriosis,501
+acute myocardial infarction,498
+dental caries,485
+ocular hypertension,482
+pulmonary embolism,477
+health behavior,475
+alcohol use disorder,469
+hiv/aids,463
+respiratory failure,458
+pulmonary arterial hypertension,457
+acne vulgaris,452
+opioid use,452
+venous thromboembolism,449
+posttraumatic stress disorder,448
+prediabetes,442
+cardiac arrest,436
+pharmacokinetics,434
+myocardial ischemia,432
+constipation,427
+fallopian tube cancer,427
+diabetic macular edema,420
+hearing loss,405
+prostatic neoplasms,402
+"hepatitis c, chronic",400
+dry eye,397
+depressive disorder,394
+nasopharyngeal carcinoma,391
+menopause,389
+depressive symptoms,388
+acute pain,385
+adhd,383
+idiopathic pulmonary fibrosis,374
+dyslipidemia,372
+ischemic heart disease,361
+age-related macular degeneration,352
+healthy participants,350
+acute ischemic stroke,347
+"arthritis, rheumatoid",347
+diarrhea,347
+melanoma (skin),342
+nicotine dependence,342
+chronic disease,334
+psoriatic arthritis,334
+obsessive-compulsive disorder,332
+post traumatic stress disorder,330
+substance use disorders,328
+chronic low back pain,314
+"depressive disorder, major",313
+hyperglycemia,312
+tobacco use disorder,306
+ankylosing spondylitis,305
+substance-related disorders,305
+human immunodeficiency virus,301
+preeclampsia,300
+urinary tract infections,300
+liver transplantation,296
+alcohol dependence,292
+colonoscopy,290
+medication adherence,289
+lung neoplasms,286
+liver diseases,285
+post operative pain,279
+dysphagia,278
+opioid-related disorders,276
+suicide,275
+cognitive decline,273
+plaque psoriasis,273
+"carcinoma, hepatocellular",270
+hodgkin lymphoma,269
+diffuse large b-cell lymphoma,268
+gingivitis,268
+substance abuse,267
+alcohol drinking,265
+psychotic disorders,263
+macular degeneration,262
+hiv-1-infection,261
+sars-cov-2 infection,257
+hemodialysis,256
+head and neck neoplasms,251
+opioid-use disorder,250
+musculoskeletal pain,247
+presbyopia,247
+systemic sclerosis,246
+kidney diseases,244
+alcohol abuse,241
+amputation,238
+dry eye syndromes,238
+parenting,238
+substance use,235
+ards,231
+end-stage renal disease,230
+nausea,229
+pancreatic adenocarcinoma,226
+sleep disorder,226
+"osteoarthritis, hip",225
+renal insufficiency,223
+sedentary lifestyle,222
+hepatic impairment,220
+coronavirus,219
+tobacco use,218
+celiac disease,216
+opioid use disorder,211
+pre-eclampsia,210
+renal impairment,209
+"depression, anxiety",207
+hiv-1 infection,206
+pediatric obesity,206
+respiratory tract infections,205
+postpartum hemorrhage,202
+osteosarcoma,201
+metabolic disease,200
+stage iv breast cancer,200
+heart disease,199
+macular edema,198
+malignant solid neoplasm,198
+obese,196
+mental health issue,192
+safety issues,192
+vomiting,192
+cigarette smoking,191
+fecal incontinence,191
+hematopoietic and lymphoid cell neoplasm,191
+malignant neoplasm,189
+attention deficit disorder with hyperactivity,188
+uveitis,185
+colorectal carcinoma,184
+migraine disorders,184
+"obesity, childhood",184
+cocaine dependence,183
+small lymphocytic lymphoma,182
+gerd,181
+"leukemia, myeloid, acute",181
+postoperative delirium,181
+hypertriglyceridemia,180
+seasonal allergic rhinitis,180
+osteopenia,179
+fabry disease,178
+heart failure with preserved ejection fraction,178
+gastroparesis,177
+hot flashes,176
+surgery--complications,175
+sars-cov infection,174
+inflammatory response,173
+vitiligo,172
+treatment resistant depression,171
+"glaucoma, open-angle",170
+"dermatitis, atopic",168
+biliary tract cancer,167
+infections,167
+scoliosis,166
+weight gain,166
+bipolar depression,165
+healthy aging,165
+metastatic renal cell carcinoma,165
+wounds and injuries,165
+stage iv non-small cell lung cancer,164
+eosinophilic esophagitis,163
+glucose metabolism disorders,156
+neutropenia,156
+hidradenitis suppurativa,155
+dry eye disease,154
+parent-child relations,153
+safety,153
+opioid dependence,152
+adult acute myeloid leukemia with 11q23 (mll) abnormalities,148
+refractive errors,148
+cardiogenic shock,147
+out-of-hospital cardiac arrest,147
+adult acute myeloid leukemia with t(16;16)(p13;q22),146
+pelvic pain,145
+mild traumatic brain injury,144
+respiratory syncytial virus infections,144
+secondary acute myeloid leukemia,144
+acute myeloid leukemia (aml),143
+mood,143
+adult acute myeloid leukemia with t(8;21)(q22;q22),142
+diet modification,142
+adult acute myeloid leukemia with inv(16)(p13;q22),141
+interstitial cystitis,141
+spinal stenosis,141
+heart failure with reduced ejection fraction,140
+alopecia areata,139
+hematopoietic stem cell transplantation,139
+open angle glaucoma,138
+loneliness,137
+precancerous condition,135
+uterine fibroids,135
+primary open angle glaucoma,133
+glucose intolerance,132
+pruritus,132
+clostridium difficile infection,130
+nonalcoholic steatohepatitis,130
+non-small-cell lung cancer,129
+metastatic castration-resistant prostate cancer,128
+barrett esophagus,127
+cardiomyopathy,127
+dietary habits,127
+visual acuity,127
+pneumococcal infections,123
+metastatic prostate cancer,122
+primary myelofibrosis,122
+sinusitis,122
+stage iv lung cancer ajcc v8,121
+urinary tract infection,121
+gastroesophageal junction adenocarcinoma,120
+anaplastic astrocytoma,119
+hyperphosphatemia,119
+"tuberculosis, pulmonary",119
+gliosarcoma,118
+retinopathy of prematurity,115
+sars-cov2 infection,115
+"surgical procedure, unspecified",115
+liver failure,112
+myeloproliferative neoplasm,111
+temporomandibular joint disorders,111
+psychological stress,110
+stage iv prostate cancer,110
+survivorship,110
+endocrine system diseases,106
+virus diseases,106
+myasthenia gravis,105
+social isolation,105
+colorectal surgery,104
+"infant, premature",104
+diabetic peripheral neuropathy,103
+adult acute myeloid leukemia with del(5q),102
+wound healing,101
+untreated adult acute myeloid leukemia,100
+dysmenorrhea,99
+"lymphoma, large b-cell, diffuse",99
+sexual behavior,99
+prader-willi syndrome,98
+skin diseases,98
+pediatrics,97
+primary peritoneal cancer,96
+psychiatric disorder,96
+"hearing loss, sensorineural",94
+advanced hepatocellular carcinoma,92
+myocardial injury,92
+parents,92
+peanut allergy,91
+retinoblastoma,91
+esrd,90
+invasive breast carcinoma,90
+non-alcoholic steatohepatitis,90
+opiate dependence,90
+violence,90
+lung adenocarcinoma,89
+nonalcoholic fatty liver disease,89
+polypharmacy,88
+anaemia,87
+"depression, postpartum",86
+respiratory tract diseases,86
+stage iva lung cancer ajcc v8,86
+stage ivb lung cancer ajcc v8,86
+alcohol-related disorders,84
+binge-eating disorder,84
+giant cell arteritis,84
+oropharyngeal cancer,84
+health care utilization,83
+fragile x syndrome,79
+stage iv renal cell cancer,79
+agitation,78
+phantom limb pain,78
+pulmonary tuberculosis,78
+trauma injury,78
+acute decompensated heart failure,77
+geographic atrophy,77
+huntington's disease,77
+chronic thromboembolic pulmonary hypertension,76
+hyperkalemia,76
+migraine headache,76
+chronic sinusitis,75
+astrocytoma,74
+hereditary angioedema,73
+paroxysmal nocturnal hemoglobinuria,73
+"smoking, cigarette",73
+advanced malignancies,72
+advanced melanoma,72
+heroin dependence,70
+recurrent ovarian epithelial cancer,70
+tachycardia,70
+unipolar depression,69
+relapsing multiple sclerosis,68
+transcranial direct current stimulation,68
+cannabis use disorder,67
+apical periodontitis,66
+cleft palate,65
+intimate partner violence,65
+coronary artery disease (cad),64
+hepatic insufficiency,64
+lung carcinoma,64
+burkitt lymphoma,63
+social anxiety,63
+caregiver burnout,62
+sensorineural hearing loss,62
+keratoconjunctivitis sicca,61
+peripheral t cell lymphoma,61
+adult acute myeloblastic leukemia without maturation (m1),60
+chronic rhinosinusitis (diagnosis),60
+"stigma, social",60
+adult acute monocytic leukemia (m5b),59
+adult erythroleukemia (m6a),59
+adult pure erythroid leukemia (m6b),59
+anhedonia,59
+biliary tract neoplasms,59
+adult acute megakaryoblastic leukemia (m7),58
+adult acute monoblastic leukemia (m5a),58
+adult acute myeloblastic leukemia with maturation (m2),58
+adult acute myelomonocytic leukemia (m4),58
+cervical dysplasia,58
+"diabetes mellitus, type ii",58
+nasal obstruction,58
+schizo affective disorder,58
+unresectable melanoma,58
+kidney injury,57
+rectal adenocarcinoma,57
+ependymoma,56
+hnscc,56
+primary hyperparathyroidism,56
+ventricular arrythmia,56
+hypoparathyroidism,55
+major depressive episode,55
+urge incontinence,55
+glabellar frown lines,54
+hypertension in pregnancy,54
+stage iii prostate cancer,54
+thoracic diseases,54
+adult acute minimally differentiated myeloid leukemia (m0),53
+friedreich ataxia,53
+painful diabetic neuropathy,53
+breast cancer metastatic,52
+peritoneal cavity cancer,52
+advanced renal cell carcinoma,50
+anaplastic oligodendroglioma,50
+hepatocellular carcinoma (hcc),50
+resistant hypertension,50
+bruxism,49
+cervical ripening,49
+renal colic,49
+benign prostatic hyperplasia (bph),48
+differentiated thyroid cancer,48
+recurrent lung non-small cell carcinoma,48
+cataract surgery,47
+gestational hypertension,47
+molar incisor hypomineralization,47
+warts,47
+alcohol use disorder (aud),46
+bone diseases,46
+gender dysphoria,46
+ketamine,46
+pneumococcal disease,46
+attention deficit disorder,45
+epidermolysis bullosa,45
+rem sleep behavior disorder,45
+severe acute respiratory syndrome coronavirus 2,45
+cellulite,44
+hearing impairment,43
+neuromyelitis optica,43
+preterm delivery,43
+clinical trial,42
+kawasaki disease,42
+psychotic disorder,42
+advanced adult primary liver cancer,41
+painful bladder syndrome,41
+systemic lupus erythematosus (sle),41
+toxicity,41
+"weight change, body",41
+mucosal melanoma,40
+stage iv cutaneous melanoma ajcc v6 and v7,40
+chemotherapy-induced neutropenia,39
+"diabetic neuropathy, painful",39
+"myocardial infarction, acute",39
+rna virus infections,39
+uncontrolled hypertension,39
+glabellar lines,37
+perioperative care,37
+schizophreniform disorders,37
+acute respiratory distress syndrome (ards),36
+adult solid neoplasm,36
+depressive episode,36
+recurrent head and neck squamous cell carcinoma,36
+congenital heart disease in children,35
+recurrent adult primary liver cancer,35
+symptomatic irreversible pulpitis,35
+idiopathic parkinson disease,34
+neuromyelitis optica spectrum disorder,34
+spondylosis,34
+emergency department,33
+"dementia, mild",32
+primary immunodeficiency,32
+stoma ileostomy,32
+acute biphenotypic leukemia,31
+adult primary hepatocellular carcinoma,31
+coronavirus disease 2019 (covid-19),31
+diabetic peripheral neuropathic pain,31
+eclampsia,31
+locally advanced pancreatic cancer,31
+lumbar disc disease,31
+stage iv squamous cell carcinoma of the lip and oral cavity,31
+wilson disease,31
+hypothermia; anesthesia,30
+locally advanced cervical cancer,30
+recruitment,30
+respiratory tract disease,30
+social determinants of health,30
+stage iiic cutaneous melanoma ajcc v7,30
+urethral stricture,30
+extreme prematurity,29
+post-essential thrombocythemia myelofibrosis,29
+genital herpes,28
+pneumococcal infection,28
+end of life,27
+hypercholesterolaemia,27
+"leukemia, myelomonocytic, chronic",27
+motivational interviewing,27
+seborrheic dermatitis,27
+self-efficacy,27
+stage iiib cutaneous melanoma ajcc v7,27
+stomatitis,27
+cervical cancer screening,26
+cystic fibrosis-related diabetes,26
+geriatric,26
+"glaucoma, primary open angle",26
+lateral canthal lines,26
+prurigo nodularis,26
+relapsed multiple myeloma,26
+alcohol; harmful use,25
+metastatic osteosarcoma,25
+ocular inflammation,25
+post-polycythemia vera myelofibrosis,25
+scalp psoriasis,25
+coronavirus disease (covid-19),24
+"cystitis, interstitial",24
+heterozygous familial hypercholesterolemia,24
+onchocerciasis,24
+rotavirus infections,24
+cervical disc herniation,23
+cigarette smoking-related carcinoma,23
+bone metastasis,22
+de novo myelodysplastic syndrome,22
+desmoid tumor,22
+disruptive behavior,22
+fathers,22
+growth hormone deficiency in children,22
+hellp syndrome,22
+immunoglobulin a nephropathy,22
+inclusion body myositis,22
+"liver cirrhosis, biliary",22
+speech sound disorder,22
+stage iiia cutaneous melanoma ajcc v7,22
+stage iii cutaneous melanoma ajcc v7,22
+acute postoperative pain,21
+autism spectrum disorder (asd),21
+bk virus infection,21
+control,21
+elective surgery,21
+gallbladder carcinoma,21
+glucose metabolism disorders (including diabetes mellitus),21
+postdural puncture headache,21
+allergic reaction,20
+breast ductal carcinoma in situ,20
+covid-19 disease,20
+electroconvulsive therapy,20
+empyema,20
+extensive stage lung small cell carcinoma,20
+"niemann-pick disease, type c",20
+schizophrenic disorders,20
+acute myeloid leukemia with multilineage dysplasia following myelodysplastic syndrome,19
+apraxia of speech,19
+cervical degenerative disc disease,19
+criminal behavior,19
+donor site complication,19
+dupuytren's disease,19
+infantile spasms,19
+lumbosacral radiculopathy,19
+platelet-rich plasma,19
+recurrent oropharyngeal squamous cell carcinoma,19
+staphylococcus aureus bacteremia,19
+urea cycle disorder,19
+chronic inflammatory demyelinating polyradiculoneuropathy,18
+colorectal tumors,18
+hypogammaglobulinemia,18
+irritable mood,18
+moderate-to-severe atopic dermatitis,18
+overactive bladder (oab),18
+psychiatric hospitalization,18
+raynaud phenomenon,18
+stage iv squamous cell carcinoma of the paranasal sinus and nasal cavity,18
+birch pollen allergy,17
+intraoperative bleeding,17
+persistent asthma,17
+anti-neutrophil cytoplasmic antibody-associated vasculitis,16
+facial palsy,16
+gastric neoplasms,16
+health care seeking behavior,16
+heart failure with preserved ejection fraction (hfpef),16
+intravenous drug usage,16
+visceral pain,16
+anaplastic ependymoma,15
+body dysmorphic disorders,15
+cervical spondylotic myelopathy,15
+corneal endothelial cell loss,15
+driving under the influence,15
+"feedback, psychological",15
+hazardous drinking,15
+postpartum weight retention,15
+respiratory syncytial viruses,15
+thiamine deficiency,15
+"substance abuse, intravenous",14
+classic hodgkin lymphoma,13
+ect,13
+severe acute respiratory syndrome coronavirus 2 (sars-cov-2),13
+stage iva oropharyngeal squamous cell carcinoma ajcc v7,13
+"transplant; failure, liver",13
+venous thromboembolism (vte),13
+diabetes mellitus in pregnancy,12
+human immunodeficiency virus (hiv) infection,12
+meningococcal vaccine,12
+relapsing-remitting multiple sclerosis (rrms),12
+stage iva oropharyngeal squamous cell carcinoma,12
+transient ischemic attack (tia),12
+unemployment,12
+velopharyngeal insufficiency,12
+abdominal injury,11
+amphetamine dependence,11
+"chronic pain, widespread",11
+coeliac disease,11
+deep vein thrombosis (dvt),11
+ebola,11
+immunocompromised,11
+phobia,11
+primary myelofibrosis (pmf),11
+short cervix,11
+stage iii intrahepatic cholangiocarcinoma ajcc v8,11
+stage iii oropharyngeal squamous cell carcinoma ajcc v7,11
+stage iv intrahepatic cholangiocarcinoma ajcc v8,11
+sudden hearing loss,11
+transtibial amputation,11
+acne inversa,10
+bile acid malabsorption,10
+covid-19 prevention,10
+dental caries class ii,10
+elder abuse,10
+father-child relations,10
+non-small-cell lung,10
+"pain, post-operative",10
+refractory melanoma,10
+stage ivb oropharyngeal squamous cell carcinoma,10
+stage ivb oropharyngeal squamous cell carcinoma ajcc v7,10
+unconsciousness,10
+underage drinking,10
+ventilator-associated bacterial pneumonia,10
+catheter site discomfort,9
+hemodiafiltration,9
+hemothorax,9
+psychiatric illness,9
+"retention, urinary",9
+stage ivc oropharyngeal squamous cell carcinoma,9
+autoimmune pulmonary alveolar proteinosis,8
+chronic pruritus,8
+cytomegalovirus (cmv),8
+ganglioglioma,8
+healthy participant,8
+localized osteosarcoma,8
+melanoma of unknown primary,8
+myocardial disease,8
+noise induced hearing loss,8
+ocular pain,8
+"osteoporosis, age-related",8
+pilocytic astrocytoma,8
+recurrent lung small cell carcinoma,8
+tree nut allergy,8
+bunionectomy,7
+cardiovascular disease other,7
+care transitions,7
+childhood apraxia of speech,7
+factor viii deficiency,7
+geriatric syndromes,7
+"liver diseases, alcoholic",7
+metastatic cholangiocarcinoma,7
+pleomorphic xanthoastrocytoma,7
+postmenopausal women with osteoporosis,7
+refractive ametropia,7
+sexually transmitted infections (not hiv or hepatitis),7
+stage iii rectal cancer ajcc v7,7
+stage iva oral cavity squamous cell carcinoma ajcc v6 and v7,7
+sudden sensorineural hearing loss,7
+unresectable cholangiocarcinoma,7
+waldenström's macroglobulinemia,7
+acanthamoeba keratitis,6
+diffuse astrocytoma,6
+dry macular degeneration,6
+hematopoietic stem cells,6
+leber's hereditary optic neuropathy (lhon),6
+"macular degeneration, age-related",6
+moderate to severe asthma,6
+pediatric crohn's disease,6
+stage ivb oral cavity squamous cell carcinoma ajcc v6 and v7,6
+sun protection,6
+surgical skin preparation,6
+anaplastic pleomorphic xanthoastrocytoma,5
+ann arbor stage iib hodgkin lymphoma,5
+cardiorespiratory failure,5
+cervical high grade squamous intraepithelial lesion,5
+colonic diverticulosis,5
+hospital-acquired bacterial pneumonia,5
+hypomineralization of enamel,5
+influenza (healthy volunteers),5
+influenza virus,5
+mucocutaneous lymph node syndrome,5
+platysma prominence,5
+stage iii oral cavity squamous cell carcinoma ajcc v6 and v7,5
+stage iva lip and oral cavity squamous cell carcinoma,5
+superficial vein thrombosis,5
+anaplastic ganglioglioma,4
+arterial ischemic stroke,4
+arthritis rheumatoid,4
+cmv disease,4
+"dermatomyositis, adult type",4
+diplopia,4
+interaction drug food,4
+lumbar osteoarthritis,4
+metastatic pancreas cancer,4
+multifocal breast carcinoma,4
+negative symptoms of schizophrenia,4
+nonproliferative diabetic retinopathy,4
+pediatric pain,4
+prevention of thromboembolic events,4
+rsv,4
+stage iva nasal cavity and paranasal sinus squamous cell carcinoma,4
+stage ivb lip and oral cavity squamous cell carcinoma,4
+stage ivb nasal cavity and paranasal sinus squamous cell carcinoma,4
+stage ivc lip and oral cavity squamous cell carcinoma,4
+stage ivc nasal cavity and paranasal sinus squamous cell carcinoma,4
+stage iv oropharyngeal squamous cell carcinoma,4
+thermal burns,4
+transformed mycosis fungoides,4
+unresectable cutaneous melanoma,4
+velopharyngeal incompetence due to cleft palate,4
+ann arbor stage iiib hodgkin lymphoma,3
+ann arbor stage iva hodgkin lymphoma,3
+ann arbor stage ivb hodgkin lymphoma,3
+carpal tunnel syndrome (cts),3
+catheter site pain,3
+childhood hodgkin lymphoma,3
+cognitive functioning of healthy individuals,3
+cognitive impairment associated with schizophrenia,3
+colorectal cancer with hepatic metastases,3
+contact tracing,3
+"drinking, teen",3
+early parkinson's disease,3
+eoe,3
+"hocm, hypertrophic obstructive cardiomyopathy",3
+hsil,3
+newly diagnosed acute myeloid leukemia (aml),3
+"nutrition, enteral",3
+oral pain,3
+osteoporosis senile,3
+post-essential thrombocythemia myelofibrosis (post-et mf),3
+postoperative nausea and vomiting (ponv),3
+post traumatic stress syndrome,3
+prevention of sexually transmitted infections,3
+severe covid-19 pneumonia,3
+stage ii oropharyngeal squamous cell carcinoma ajcc v6 and v7,3
+stage iv lip and oral cavity squamous cell carcinoma,3
+stage iv nasopharyngeal keratinizing squamous cell carcinoma,3
+untreated aml,3
+visual perception,3
+acute non-cardioembolic ischemic stroke,2
+age related osteoporosis,2
+alcohol problem drinking,2
+aml arising from myelodysplastic syndrome (mds),2
+angiocentric glioma,2
+antidepressants causing adverse effects in therapeutic use,2
+anxiety disorders generalized,2
+"cannabis dependence, continuous",2
+central neurocytoma,2
+chordoid glioma of third ventricle,2
+chronic hepatitis c virus (hcv) infection genotype 1,2
+chronic leg pain,2
+chronic prurigo,2
+clear cell ependymoma,2
+consciousness,2
+desmoplastic infantile astrocytoma and ganglioglioma,2
+drug action increased,2
+dysplastic gangliocytoma of cerebrellum,2
+end stage renal disease requiring hemodialysis,2
+exposure to herbicides,2
+extraventricular neurocytoma,2
+gangliocytoma,2
+giant cell astrocytoma,2
+granulation tissue,2
+hoffman's reflex,2
+infraorbital hollows,2
+meningococcal immunisation,2
+multicentric breast carcinoma,2
+myelokathexis,2
+myocardial infarction old,2
+ocular inflammation and pain,2
+ocular inflammation and pain after cataract surgery,2
+"oligodendroglioma, childhood",2
+oral cavity neoplasm,2
+osteoporosis localized to spine,2
+osteoporosis of vertebrae,2
+papillary glioneuronal tumor,2
+physical activity and sedentary behavior,2
+postoperative gastrointestinal dysfunction,2
+rosette-forming glioneurona tumor,2
+stage ii oral cavity squamous cell carcinoma ajcc v6 and v7,2
+stage ii rectal cancer ajcc v7,2
+stage i oropharyngeal squamous cell carcinoma ajcc v6 and v7,2
+stage iva nasopharyngeal keratinizing squamous cell carcinoma,2
+stage ivb nasopharyngeal keratinizing squamous cell carcinoma,2
+stage ivc nasopharyngeal keratinizing squamous cell carcinoma,2
+sugar-sweetened beverages,2
+synchronous bilateral breast carcinoma,2
+tube disorders eustachian,2
+acquired hyperinsulinemic hypoglycemia,1
+active cutaneous lupus erythematosus,1
+alcohol use disorders (aud),1
+anal neoplasm,1
+apoe 4,1
+"binocular; fusion, with defective stereopsis",1
+binocular vision suppression,1
+bipolar 1 depression,1
+b precursor type acute leukemia,1
+brain ependymoma,1
+cellular ependymoma,1
+cerebellar iponeurocytoma,1
+chemo-radiation induced nausea and vomiting,1
+chest tube size,1
+chronic hypertension with pre-eclampsia complicating childbirth,1
+connective tissue disease-associated pulmonary arterial hypertension,1
+coronavirus disease 2019 covid-19,1
+dental caries class i,1
+deviated nasal septum acquired,1
+deviated nasal septum - congenital,1
+"estrogen receptor-positive, her2-negative, locally advanced or metastatic breast cancer",1
+excessive bleeding during surgery,1
+father - child relations,1
+head and neck basaloid carcinoma,1
+hearing aid fitting,1
+hemopneumothorax; traumatic,1
+"hepatic sarcoidosis, elevated alkaline phosphatase",1
+hiv-1/hbv co-infection,1
+independent child migration,1
+inflammation and pain following ocular surgery,1
+inflammatory acne,1
+information labels,1
+"kras p, g12c mutated /advanced metastatic nsclc",1
+leptin receptor deficiency obesity,1
+liver preservation for transplant,1
+locally advanced or metastatic urothelial bladder cancer,1
+mast cell disorder,1
+memory and thinking problems,1
+menopausal hot flashes,1
+microfragmented adipose tissue,1
+moderate impaired hepatic function,1
+monocular diplopia,1
+night waking,1
+node positive her2 negative breast cancer,1
+non-radiographical axial spondyloarthritis,1
+nonsegmental vitiligo,1
+oropharyngeal neoplasm,1
+"osteoarthritis, knee / osteoarthritis, hip",1
+osteoarthritis of cervical spine,1
+overactive bladder with urge urinary incontinence,1
+papillary ependymoma,1
+"patients being assessed with nuclear stress testing of the heart using the stress agent regadenoson, lexiscan",1
+peripheral nerve discontinuities,1
+pit-and-fissure sealants,1
+post-polycythemia vera (post-pv),1
+recurrent or progressive glioblastoma,1
+relapsed-refractory multiple myeloma,1
+severe sudden sensorineural hearing loss,1
+soft drink consumption,1
+spasticity in participants with multiple sclerosis,1
+squamous cell carcinoma of unknown primary origin,1
+stage 0 oral cavity squamous cell carcinoma american joint committee on cancer (ajcc) v6 and v7,1
+stage 0 oropharyngeal squamous cell carcinoma ajcc v6 and v7,1
+stage i oral cavity squamous cell carcinoma ajcc v6 and v7,1
+"sunburn, erythema",1
+transgender adolescents & young adults,1
+turbinate; hypertrophy mucous membrane,1
+vitamin d and calcium homeostasis,1
+wound healing and scar quality following mohs surgery and excisional dermatologic surgery,1
